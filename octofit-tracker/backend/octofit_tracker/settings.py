@@ -29,6 +29,7 @@ DEBUG = True
 
 
 
+
 # Allow localhost and codespace URL
 import os
 codespace_name = os.environ.get('CODESPACE_NAME')
